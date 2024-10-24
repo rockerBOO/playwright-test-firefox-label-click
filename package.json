@@ -1,0 +1,12 @@
+{
+  "name": "playwright-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "@playwright/test": "^1.48.1",
+    "playwright": "^1.48.1"
+  },
+  "license": "MIT",
+  "packageManager": "yarn@4.5.1"
+}
